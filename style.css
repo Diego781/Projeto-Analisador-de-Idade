@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(120deg, #5d2de2b8, #0bce59da);
+}
+
+section {
+    width: 470px;
+    height: 440px;
+    padding: 15px;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 5%;
+    margin: auto;
+    color: white;
+
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font: normal 11pt Arial;
+
+}
